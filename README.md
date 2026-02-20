@@ -16,3 +16,4 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 # ec-press-scraper
 # ec-press-scraper
+# ec-press-scraper
